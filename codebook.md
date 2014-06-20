@@ -1,4 +1,4 @@
-Getting and cleaning data course project codebook
+﻿Getting and cleaning data course project codebook
 
 
 ##Introduction:
@@ -13,21 +13,37 @@ These signals were used to estimate variables of the feature vector for each pat
 
 Tidied dataset: The set of variables used these signals are mean and standard deviation (std).
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyroXYZ
+
 tBodyGyroJerkXYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAccXYZ
+
 fBodyAccJerkXYZ
+
 fBodyGyroXYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
 
 
